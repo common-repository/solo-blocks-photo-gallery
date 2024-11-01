@@ -1,0 +1,753 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Solo Blocks Photo Gallery\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: solo-blocks-photo-gallery.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#. Plugin Name of the plugin/theme
+#: core/assets.php:33
+msgid "Solo Blocks Photo Gallery"
+msgstr ""
+
+#: core/block/grid.php:65 core/block/grid.php:198 core/block/masonry.php:61
+#: core/block/masonry.php:193 src/editor/blocks/Grid/attributes.js:50
+#: src/editor/blocks/Masonry/attributes.js:46
+msgid "Load More"
+msgstr ""
+
+#: loader.php:86
+#, php-format
+msgid "%1$s is not working because you need to activate the %2$s plugin."
+msgstr ""
+
+#: loader.php:87
+#, php-format
+msgid "Activate %1$s Now"
+msgstr ""
+
+#: loader.php:95
+#, php-format
+msgid "%1$s is not working because you need to install the %2$s plugin."
+msgstr ""
+
+#: loader.php:96
+#, php-format
+msgid "Install %1$s Now"
+msgstr ""
+
+#: loader.php:103
+#, php-format
+msgid ""
+"%1$s requires an update of the %2$s version up to %3$s to work properly."
+msgstr ""
+
+#: loader.php:116 loader.php:121
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: solo-blocks-photo-gallery.php:17
+msgid "Support Forum"
+msgstr ""
+
+#: solo-blocks-photo-gallery.php:18
+msgid "Rate"
+msgstr ""
+
+#: src/editor/blocks/Grid/edit.js:99
+msgid "Solo Blocks Grid Gallery"
+msgstr ""
+
+#: src/editor/blocks/Grid/index.js:14
+msgid "Grid"
+msgstr ""
+
+#: src/editor/blocks/Grid/index.js:16
+msgid ""
+"Solo Blocks Grid Layout Block. This block offers a grid-based layout, with "
+"rows and columns, making it easier to design awesome photo galleries."
+msgstr ""
+
+#: src/editor/blocks/Grid/index.js:18 src/editor/blocks/Masonry/index.js:18
+msgid "layout"
+msgstr ""
+
+#: src/editor/blocks/Grid/index.js:19 src/editor/blocks/Masonry/index.js:19
+msgid "gallery"
+msgstr ""
+
+#: src/editor/blocks/Grid/index.js:20 src/editor/blocks/Masonry/index.js:20
+msgid "photo"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:60
+#: src/editor/blocks/Masonry/inspector.js:59
+msgid "Gallery Images"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:71
+#: src/editor/blocks/Masonry/inspector.js:71
+msgid "Main Settings"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:74
+#: src/editor/blocks/Masonry/inspector.js:74
+msgid "Number of Images"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:80
+#: src/editor/blocks/Masonry/inspector.js:80
+msgid "Image Size"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:82
+#: src/editor/blocks/Masonry/inspector.js:82
+msgid "Medium (300px)"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:83
+#: src/editor/blocks/Masonry/inspector.js:83
+msgid "Medium-Large (768px)"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:84
+#: src/editor/blocks/Masonry/inspector.js:84
+msgid "Large (1024px)"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:85
+#: src/editor/blocks/Masonry/inspector.js:85
+msgid "Full"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:91
+msgid "Grid Type"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:93
+msgid "Rectangle 16x9"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:94
+msgid "Rectangle 4x3"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:95
+msgid "Square"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:101
+#: src/editor/blocks/Masonry/inspector.js:91
+msgid "Number of Columns"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:103
+#: src/editor/blocks/Masonry/inspector.js:93
+msgid "1"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:104
+#: src/editor/blocks/Masonry/inspector.js:94
+msgid "2"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:105
+#: src/editor/blocks/Masonry/inspector.js:95
+msgid "3"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:106
+#: src/editor/blocks/Masonry/inspector.js:96
+msgid "4"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:116
+#: src/editor/blocks/Masonry/inspector.js:106
+msgid "Gap (px)"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:122
+#: src/editor/blocks/Masonry/inspector.js:112
+msgid "Set Responsive Gap"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:126
+#: src/editor/blocks/Masonry/inspector.js:116
+msgid "Desktop Gap (px)"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:133
+#: src/editor/blocks/Masonry/inspector.js:123
+msgid "Tablet Gap (px)"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:140
+#: src/editor/blocks/Masonry/inspector.js:130
+msgid "Mobile Gap (px)"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:151
+#: src/editor/blocks/Masonry/inspector.js:141
+msgid "Lightbox"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:156
+#: src/editor/blocks/Masonry/inspector.js:146
+msgid "Show Title"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:161
+#: src/editor/blocks/Masonry/inspector.js:151
+msgid "Hover Effect"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:163
+#: src/editor/blocks/Masonry/inspector.js:153
+msgid "None"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:164
+#: src/editor/blocks/Masonry/inspector.js:154
+msgid "Hover Type 1"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:165
+#: src/editor/blocks/Masonry/inspector.js:155
+msgid "Hover Type 2"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:166
+#: src/editor/blocks/Masonry/inspector.js:156
+msgid "Hover Type 3"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:167
+#: src/editor/blocks/Masonry/inspector.js:157
+msgid "Hover Type 4"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:168
+#: src/editor/blocks/Masonry/inspector.js:158
+msgid "Hover Type 5"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:169
+#: src/editor/blocks/Masonry/inspector.js:159
+msgid "Hover Type 6"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:175
+#: src/editor/blocks/Masonry/inspector.js:165
+msgid "Show \"Load More\" Button"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:187
+#: src/editor/blocks/Masonry/inspector.js:177
+msgid "\"Load More\" Button Title"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:192
+#: src/editor/blocks/Masonry/inspector.js:182
+msgid "Number of Images to Load"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:198
+#: src/editor/blocks/Masonry/inspector.js:188
+msgid "Show All Images Available on Load"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:207
+#: src/editor/blocks/Masonry/inspector.js:197
+msgid "Color Settings"
+msgstr ""
+
+#: src/editor/blocks/Grid/inspector.js:213
+#: src/editor/blocks/Masonry/inspector.js:203
+msgid "Background Color"
+msgstr ""
+
+#: src/editor/blocks/Masonry/edit.js:95
+msgid "Solo Blocks Masonry Gallery"
+msgstr ""
+
+#: src/editor/blocks/Masonry/index.js:14
+msgid "Masonry"
+msgstr ""
+
+#: src/editor/blocks/Masonry/index.js:16
+msgid ""
+"Solo Blocks Masonry Layout Block. This block offers a grid layout based on "
+"columns which doesn’t have fixed height rows. You can preview the original "
+"image format."
+msgstr ""
+
+#: src/editor/components/Animation.js:60
+msgid "No Animation"
+msgstr ""
+
+#: src/editor/components/Animation.js:62
+msgid "Attention Seekers"
+msgstr ""
+
+#: src/editor/components/Animation.js:64
+msgid "Bounce"
+msgstr ""
+
+#: src/editor/components/Animation.js:65
+msgid "Flash"
+msgstr ""
+
+#: src/editor/components/Animation.js:66
+msgid "Head Shake"
+msgstr ""
+
+#: src/editor/components/Animation.js:67
+msgid "Heart Beat"
+msgstr ""
+
+#: src/editor/components/Animation.js:68
+msgid "Jello"
+msgstr ""
+
+#: src/editor/components/Animation.js:69
+msgid "Pulse"
+msgstr ""
+
+#: src/editor/components/Animation.js:70
+msgid "Rubber Band"
+msgstr ""
+
+#: src/editor/components/Animation.js:71
+msgid "Shake"
+msgstr ""
+
+#: src/editor/components/Animation.js:72
+msgid "Swing"
+msgstr ""
+
+#: src/editor/components/Animation.js:73
+msgid "Tada"
+msgstr ""
+
+#: src/editor/components/Animation.js:74
+msgid "Wobble"
+msgstr ""
+
+#: src/editor/components/Animation.js:78
+msgid "Bouncing"
+msgstr ""
+
+#: src/editor/components/Animation.js:80
+msgid "Bounce In"
+msgstr ""
+
+#: src/editor/components/Animation.js:81
+msgid "Bounce In Down"
+msgstr ""
+
+#: src/editor/components/Animation.js:82
+msgid "Bounce In Left"
+msgstr ""
+
+#: src/editor/components/Animation.js:83
+msgid "Bounce In Right"
+msgstr ""
+
+#: src/editor/components/Animation.js:84
+msgid "Bounce In Up"
+msgstr ""
+
+#: src/editor/components/Animation.js:88
+msgid "Fading"
+msgstr ""
+
+#: src/editor/components/Animation.js:90
+msgid "Fade In"
+msgstr ""
+
+#: src/editor/components/Animation.js:91
+msgid "Fade In Down"
+msgstr ""
+
+#: src/editor/components/Animation.js:92
+msgid "Fade In DownBig"
+msgstr ""
+
+#: src/editor/components/Animation.js:93
+msgid "Fade In Left"
+msgstr ""
+
+#: src/editor/components/Animation.js:94
+msgid "Fade In LeftBig"
+msgstr ""
+
+#: src/editor/components/Animation.js:95
+msgid "Fade In Right"
+msgstr ""
+
+#: src/editor/components/Animation.js:96
+msgid "Fade In RightBig"
+msgstr ""
+
+#: src/editor/components/Animation.js:97
+msgid "Fade In Up"
+msgstr ""
+
+#: src/editor/components/Animation.js:98
+msgid "Fade In UpBig"
+msgstr ""
+
+#: src/editor/components/Animation.js:102
+msgid "Flippers"
+msgstr ""
+
+#: src/editor/components/Animation.js:104
+msgid "Flip"
+msgstr ""
+
+#: src/editor/components/Animation.js:105
+msgid "Flip In X"
+msgstr ""
+
+#: src/editor/components/Animation.js:106
+msgid "Flip In Y"
+msgstr ""
+
+#: src/editor/components/Animation.js:110
+msgid "Rotating"
+msgstr ""
+
+#: src/editor/components/Animation.js:112
+msgid "Rotate In"
+msgstr ""
+
+#: src/editor/components/Animation.js:113
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: src/editor/components/Animation.js:114
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: src/editor/components/Animation.js:115
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: src/editor/components/Animation.js:116
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: src/editor/components/Animation.js:120
+msgid "Zoom"
+msgstr ""
+
+#: src/editor/components/Animation.js:122
+msgid "Zoom In"
+msgstr ""
+
+#: src/editor/components/Animation.js:123
+msgid "Zoom In Down"
+msgstr ""
+
+#: src/editor/components/Animation.js:124
+msgid "Zoom In Left"
+msgstr ""
+
+#: src/editor/components/Animation.js:125
+msgid "Zoom In Right"
+msgstr ""
+
+#: src/editor/components/Animation.js:126
+msgid "Zoom In Up"
+msgstr ""
+
+#: src/editor/components/Animation.js:130
+msgid "Sliding"
+msgstr ""
+
+#: src/editor/components/Animation.js:132
+msgid "Slide In Down"
+msgstr ""
+
+#: src/editor/components/Animation.js:133
+msgid "Slide In Left"
+msgstr ""
+
+#: src/editor/components/Animation.js:134
+msgid "Slide In Right"
+msgstr ""
+
+#: src/editor/components/Animation.js:135
+msgid "Slide In Up"
+msgstr ""
+
+#: src/editor/components/Animation.js:139
+msgid "Specials"
+msgstr ""
+
+#: src/editor/components/Animation.js:141
+msgid "Jack In The Box"
+msgstr ""
+
+#: src/editor/components/Animation.js:142
+msgid "Light Speed In"
+msgstr ""
+
+#: src/editor/components/Animation.js:143
+msgid "Roll In"
+msgstr ""
+
+#: src/editor/components/Animation.js:151
+msgid "Animations"
+msgstr ""
+
+#: src/editor/components/Animation.js:166
+msgid "Infinite Animation"
+msgstr ""
+
+#: src/editor/components/Animation.js:172
+msgid "Animation delay"
+msgstr ""
+
+#: src/editor/components/Animation.js:175
+msgid "No Delay"
+msgstr ""
+
+#: src/editor/components/Animation.js:176
+msgid "1 second"
+msgstr ""
+
+#: src/editor/components/Animation.js:177
+msgid "2 seconds"
+msgstr ""
+
+#: src/editor/components/Animation.js:178
+msgid "3 seconds"
+msgstr ""
+
+#: src/editor/components/Animation.js:179
+msgid "4 seconds"
+msgstr ""
+
+#: src/editor/components/Animation.js:180
+msgid "5 seconds"
+msgstr ""
+
+#: src/editor/components/Animation.js:186
+msgid "Animation Speed"
+msgstr ""
+
+#: src/editor/components/Animation.js:189
+msgid "Slower"
+msgstr ""
+
+#: src/editor/components/Animation.js:190
+msgid "Slow"
+msgstr ""
+
+#: src/editor/components/Animation.js:191
+msgid "Normal"
+msgstr ""
+
+#: src/editor/components/Animation.js:192
+msgid "Fast"
+msgstr ""
+
+#: src/editor/components/Animation.js:193
+msgid "Faster"
+msgstr ""
+
+#: src/editor/components/Gallery/MediaButton.js:15
+msgid "Select Files"
+msgstr ""
+
+#: src/editor/components/Gallery/MediaButton.js:26
+msgid "Select"
+msgstr ""
+
+#: src/editor/components/Gallery/MediaButton.js:88
+msgid "+ Add Media"
+msgstr ""
+
+#: src/editor/components/Gallery/MediaClearButton.js:12
+msgid "Clear Gallery"
+msgstr ""
+
+#: src/editor/components/Gallery/MediaController.js:62
+msgid "Are you really want remove all images?"
+msgstr ""
+
+#: src/editor/components/Gallery/MediaStatus.js:20
+#, javascript-format
+msgid "%s file"
+msgid_plural "%s files"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/editor/components/Gallery/MediaStatus.js:20
+msgid "No files"
+msgstr ""
+
+#: src/editor/components/ImageControl.js:84
+msgid "Select a file from your library."
+msgstr ""
+
+#: src/editor/components/ImageControl.js:88
+#: src/editor/components/ImageControl.js:94
+msgid "Add Image"
+msgstr ""
+
+#: src/editor/components/ImageControl.js:111
+msgid "Remove Image"
+msgstr ""
+
+#: src/editor/components/ImageControl.js:118
+msgid "Change Image"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:316
+msgid "Date"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:317
+msgid "ID"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:318
+msgid "Author"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:319
+msgid "Title"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:320
+msgid "Modified"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:321
+msgid "Random"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:322
+msgid "Comment count"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:323
+msgid "Menu order"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:327
+msgid "Ascending"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:328
+msgid "Descending"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:335
+msgid "Post Count"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:341
+msgid "How many teasers to show? Enter number, -1 for All."
+msgstr ""
+
+#: src/editor/components/QueryControl.js:350
+msgid "Order By"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:355
+msgid "Select how to sort retrieved posts. More at"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:357
+msgid "WordPress codex page"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:362
+msgid "Order"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:366
+msgid "Designates the ascending or descending order"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:370
+msgid "Posts"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:371
+msgid "Filter output by custom Post, enter post names here"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:419
+msgid "Note: if selected Custom Posts - other settings will be disabled"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:426
+msgid "Category"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:427
+msgid ""
+"Filter output by custom taxonomies categories, enter category names here"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:471
+msgid "Tags"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:472
+msgid "Filter output by custom Tags, enter tags names here"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:517
+msgid "Users"
+msgstr ""
+
+#: src/editor/components/QueryControl.js:518
+msgid "Filter output by custom Users, enter users names here"
+msgstr ""
+
+#: src/editor/inspector.js:26
+msgid "Animation"
+msgstr ""
+
+#: src/editor/inspector.js:37
+msgid "Advanced"
+msgstr ""
+
+#: src/editor/inspector.js:40
+msgid "Additional CSS Class"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://soloblocks.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Solo Blocks Photo Gallery - is a collection of the galleries for the "
+"Gutenberg WordPress editor."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Solo Blocks"
+msgstr ""
